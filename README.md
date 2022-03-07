@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kyokoumekawa! You may call me Kyokie 💛
+- 👋 Hi, I’m @kyokoumekawa! You may call me Kyoko 💛
 - 👀 I’m interested in Animals, Anime, Travel, Food, Music, Games, Movies and TV Series! 🎮 
 - 🌱 I’m currently learning -> Advanced HTML, CSS, JavaScript, APIs and responsive design👩‍💻
 - 💞️ I’m looking to learn more collaborate on amazing projects in the future and be part of an incredible team! 👏
